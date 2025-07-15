@@ -19,6 +19,8 @@ It uses strong AES encryption, master password protection, and clipboard copy fu
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+
 🛠 Setup
 1. Generate Encryption Key (run once)
 from cryptography.fernet import Fernet
