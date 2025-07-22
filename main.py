@@ -2,9 +2,6 @@ import bcrypt
 import getpass
 from cryptography.fernet import Fernet
 import pyperclip
-import tkinter as tk
-from tkinter import messagebox
-
 
 
 def generate_key():
